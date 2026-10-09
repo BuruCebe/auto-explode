@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "auto_explode"
+version = "0.1.0"
+name = "Auto Explode"
+tagline = "One-click exploded views and assembly animations"
+maintainer = "BuruCebe"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = ["SPDX:MIT"]
+tags = ["Animation", "Object", "Render"]
